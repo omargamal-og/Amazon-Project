@@ -41,8 +41,6 @@ Amazon-Project/
 
 - Add user authentication and profiles
 
-- Implement a full checkout flow (cart → payment → order)
-
 - Integrate real-time database (Firebase / backend) for orders & products
 
 - Enhance mobile experience with optimized UI
@@ -58,4 +56,4 @@ Amazon-Project/
 **Omar Gamal**  
 💻 [GitHub](https://github.com/omargamal-og)  
 🔗 [LinkedIn](https://www.linkedin.com/in/omarrgamall)  
-📧 [Email](mailto:omargamalemam@gmail.com
+📧 [Email](mailto:omargamalemam@gmail.com)
