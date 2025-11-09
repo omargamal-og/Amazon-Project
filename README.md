@@ -22,6 +22,7 @@ Currently under active development: adding features and improving design.
 ```
 
 ## 📂 Project Structure
+```
 Amazon-Project/  
 │  
 ├── assets/        # Images, icons, product data  
@@ -34,6 +35,7 @@ Amazon-Project/
 ├── orders.html    # User order history  
 ├── tracking.html  # Order tracking interface  
 └── README.md      # Project documentation
+```
 
 ## 🚀 Future Improvements
 
